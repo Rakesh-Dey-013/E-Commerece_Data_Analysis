@@ -128,7 +128,7 @@ Make sure you have installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Rakesh-Dey-013/E-Commerece_Data_Analysis.git
 cd E-Commerce_Analysis
 ```
 
