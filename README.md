@@ -129,7 +129,7 @@ Make sure you have installed:
 
 ```bash
 git clone https://github.com/Rakesh-Dey-013/E-Commerece_Data_Analysis.git
-cd E-Commerce_Analysis
+cd E-Commerece_Data_Analysis
 ```
 
 ### 2. Set Up the Database
