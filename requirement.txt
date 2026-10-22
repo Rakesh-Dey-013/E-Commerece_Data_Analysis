@@ -1,0 +1,6 @@
+pandas
+rich
+matplotlib
+seaborn
+sqlalchemy
+jupyter
